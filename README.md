@@ -49,3 +49,5 @@ To run on Browserbase, add your API keys to .env and change `env: "LOCAL"` to `e
 6. Paste it in .env file with some variable
 7. Install "@ai-sdk/google" package
 8. Now go to stagehand.config file and change the model from openai to google with latest gemini flash
+9. Move main function from index file and create main.ts file and paste it
+10. Remove everything inside of main function and start writing the code.
